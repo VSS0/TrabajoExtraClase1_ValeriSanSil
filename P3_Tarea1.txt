@@ -1,0 +1,30 @@
+﻿Valeri San Silvestre Chacon
+Tarea Extraclase#1
+
+
+ Github:
+        Es un sistema para controlar versiones en la nube.
+
+
+Clone:
+        La función del clone  como lo dice es clonar un repositorio desde la última versión que se tiene en Git a la máquina local.
+
+
+ Commit:
+        Se utiliza para confirmar cambios recientes, estos se guardan a nivel local no en el repositorio online.
+
+
+Push:
+        Para poder subir la versión nueva (la de los cambios hechos en local) se utiliza el comando push. Al usar el comando se añade la nueva versión a git.
+
+
+Pull: 
+        Pull sirve  para pedir revisión de cambios antes de que se junte a la versión principal en git. 
+
+
+README file:
+        Es un archivo para proveer contexto o información acerca del proyecto o repositorio.
+
+
+Add .gitignore:
+        Archivo que le indica a git lo que tiene que ignorar.
